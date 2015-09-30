@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 吳文正集
+#+DATE: 2015-08-25 00:09:33.458982
+#+PROPERTY: ID KR4d0446
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十一
+<pb:KR4d0446_WYG_051-1a>¶
+欽定四庫全書¶
+　呉文正集巻五十一¶
+　　　　　　　　　　　　　元　呉澄　撰¶
+(原/闕)¶
